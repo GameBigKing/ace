@@ -1,10 +1,11 @@
 {
     "GameUrlListSSL" :
     [
-        "https://xxx"
+        "https://c2.apym1w.com"
     ],
     "GameUrlList" :
     [
-        "http://xxx"
+        "https://c2.apym1w.com"
     ]
+
 }
