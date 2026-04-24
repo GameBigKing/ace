@@ -3,8 +3,5 @@
     [
         "https://upcdn.apuuqa.com/games/"
     ],
-    "service" :
-    [
-        "https://direct.lc.chat/17846553/"
-    ]
+    "service" :"https://direct.lc.chat/17846553/"
 }
